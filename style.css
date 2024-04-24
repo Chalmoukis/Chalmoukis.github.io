@@ -1,0 +1,78 @@
+h1 {
+    color: blue;
+    font-style: normal;
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+    font-weight: 700;
+}
+
+h2 {
+    color: green;
+    font-style: normal;
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+    font-weight: 400; 
+}
+
+table {
+    border: 10px solid yellowgreen;
+    
+}
+
+td {
+    border-bottom: 1px solid black;
+    padding: 1px;
+    text-align: center;
+}
+
+th {
+    border: 2px solid pink;
+    background-color: aquamarine;
+    text-align: center;
+}
+
+.Green {
+    color: green;
+    width: 250px;
+    border-right: 1px solid black;
+    border-left: 1px solid black;
+}
+
+.Cyan {
+    color: blue;
+    width: 150px;
+    border-right: 1px solid black;
+}
+
+.O3 {
+    border-right: 1px solid black; 
+}
+
+.O4 {
+    border-right: 1px solid black; 
+}
+
+.O5 {
+    border-right: 1px solid black; 
+}
+
+#Oa {
+    border-top: 1px solid black;
+}
+
+#Ob {
+    border-top: 1px solid black;
+}
+
+#Oc {
+    border-top: 1px solid black;
+    width: 150px;
+}
+
+#Od {
+    border-top: 1px solid black;
+}
+
+#Oe {
+    border-top: 1px solid black;
+}
